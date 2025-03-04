@@ -8,3 +8,4 @@ I Used this Resource for learning about Artificial Intelligence:
 For Creating the above Roadmap I used Chatgpt and a bit of Prompt Engineering. 
 
 For Now I am just Starting my journey of becoming a **AI Engineer**. I will solely relying on YouTube, Coursera, MIT Opencourseware, Harvard CS50, Edx and other education platforms for learning and I will be updating everything which I do everyday here. :))
+See Ya!
